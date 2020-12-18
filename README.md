@@ -1,3 +1,3 @@
 # projet_DataMining
 
-https://mybinder.org/v2/gh/said-debug/projet_DataMining/d846092f66dd0a037665bc8762e5c6e1e4284708
+https://mybinder.org/v2/gh/said-debug/projet_DataMining/36e5b0d0c7ff410949dfdf25bdf0ef5900655b07
